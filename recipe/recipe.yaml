@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.1.1"
+  version: "2.1.2"
   python_min: "3.12"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/s/slam-astro/slam_astro-${{ version }}.tar.gz
-  sha256: 118051057b5a284f3d27edb6423c0808b48f04af2aecef356a05dae6943b71ba
+  sha256: 1060be6510c86e484c4a64c5810d28d090773866a0641f86cb4c3dab76db705a
 
 build:
   number: 0
